@@ -1,0 +1,9 @@
+pip install time
+pip install requests
+pip install discord
+pip install smtplib
+pip install ssl
+pip install os
+pip install logging
+pip install pyautogui
+pip install termcolor

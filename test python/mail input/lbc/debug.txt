@@ -1,0 +1,217 @@
+2023-07-27 23:25:11,068 - DEBUG - --------------------------------
+2023-07-27 23:25:11,069 - DEBUG - |         message debug        |
+2023-07-27 23:25:11,069 - DEBUG - --------------------------------
+2023-07-27 23:25:15,251 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:25:15,474 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:25:15,476 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:25:15,480 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:25:15,738 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:25:15,740 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:25:16,744 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:25:17,016 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:25:17,017 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:25:18,021 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:25:18,324 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:25:18,325 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:25:19,329 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:25:19,577 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:25:19,578 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:25:20,583 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:25:20,802 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:25:20,803 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:25:20,804 - DEBUG - mail entrant
+2023-07-27 23:25:20,808 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:25:21,143 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:25:21,145 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:25:21,148 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:25:21,445 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:25:21,446 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:25:23,920 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:25:24,172 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:25:24,173 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:25:24,175 - DEBUG - mdp mail
+2023-07-27 23:25:24,178 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:25:24,402 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:25:24,403 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:25:24,407 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:25:24,656 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:25:24,657 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:25:33,419 - DEBUG - VCT mail
+2023-07-27 23:27:35,865 - DEBUG - --------------------------------
+2023-07-27 23:27:35,866 - DEBUG - |         message debug        |
+2023-07-27 23:27:35,866 - DEBUG - --------------------------------
+2023-07-27 23:27:39,390 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:27:39,769 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:27:39,770 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:27:39,775 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:27:40,013 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:27:40,014 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:27:41,019 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:27:41,557 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:27:41,558 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:27:42,565 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:27:42,833 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:27:42,834 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:27:43,839 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:27:44,116 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:27:44,118 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:27:45,123 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:27:45,360 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:27:45,361 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:27:45,363 - DEBUG - --------------
+2023-07-27 23:27:45,363 - DEBUG - |mail entrant|
+2023-07-27 23:27:45,363 - DEBUG - --------------
+2023-07-27 23:27:45,366 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:27:45,613 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:27:45,614 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:27:45,619 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:27:46,019 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:27:46,021 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:27:54,970 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:27:55,374 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:27:55,376 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:27:55,377 - DEBUG - ----------
+2023-07-27 23:27:55,377 - DEBUG - |mdp mail|
+2023-07-27 23:27:55,378 - DEBUG - ----------
+2023-07-27 23:27:55,382 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:27:55,630 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:27:55,631 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-27 23:27:55,635 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-27 23:27:55,844 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-27 23:27:55,845 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-28 23:03:40,870 - DEBUG - --------------------------------
+2023-07-28 23:03:40,871 - DEBUG - |         message debug        |
+2023-07-28 23:03:40,871 - DEBUG - --------------------------------
+2023-07-28 23:04:08,835 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-28 23:04:09,101 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-28 23:04:09,103 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-28 23:04:09,107 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-28 23:04:09,366 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-28 23:04:09,369 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-28 23:04:10,376 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-28 23:04:10,665 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-28 23:04:10,668 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-28 23:04:11,673 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-28 23:04:11,970 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-28 23:04:11,971 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-28 23:04:12,976 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-28 23:04:13,193 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-28 23:04:13,194 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-28 23:04:14,200 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-28 23:04:14,450 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-28 23:04:14,451 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-28 23:04:14,453 - DEBUG - --------------
+2023-07-28 23:04:14,453 - DEBUG - |mail entrant|
+2023-07-28 23:04:14,453 - DEBUG - --------------
+2023-07-28 23:04:14,456 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-28 23:04:14,747 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-28 23:04:14,749 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-28 23:04:14,753 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-28 23:04:14,967 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-28 23:04:14,968 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-28 23:04:17,890 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-28 23:04:18,142 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-28 23:04:18,144 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-28 23:04:18,146 - DEBUG - ----------
+2023-07-28 23:04:18,147 - DEBUG - |mdp mail|
+2023-07-28 23:04:18,147 - DEBUG - ----------
+2023-07-28 23:04:18,152 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-28 23:04:18,388 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-28 23:04:18,390 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-28 23:04:18,394 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-28 23:04:18,612 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-28 23:04:18,614 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-28 23:05:14,959 - DEBUG - VCT mail
+2023-07-28 23:05:18,381 - DEBUG - \/-_-_-|message send|-_-_-\/
+2023-07-28 23:05:21,494 - DEBUG - \/-_-_-|message send|-_-_-\/
+2023-07-28 23:05:24,496 - DEBUG - \/-_-_-|message send|-_-_-\/
+2023-07-28 23:05:27,498 - DEBUG - \/-_-_-|message send|-_-_-\/
+2023-07-29 19:17:12,558 - DEBUG - --------------------------------
+2023-07-29 19:17:12,559 - DEBUG - |         message debug        |
+2023-07-29 19:17:12,559 - DEBUG - --------------------------------
+2023-07-29 19:17:29,321 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:17:29,610 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:17:29,614 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:17:29,620 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:17:29,920 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:17:29,921 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:17:30,927 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:17:31,229 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:17:31,232 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:17:32,239 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:17:32,596 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:17:32,598 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:17:33,602 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:17:33,889 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:17:33,890 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:17:34,896 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:17:35,202 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:17:35,203 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:17:35,205 - DEBUG - --------------
+2023-07-29 19:17:35,206 - DEBUG - |mail entrant|
+2023-07-29 19:17:35,206 - DEBUG - --------------
+2023-07-29 19:17:35,211 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:17:35,504 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:17:35,505 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:17:35,509 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:17:35,746 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:17:35,747 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:17:37,543 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:17:37,783 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:17:37,785 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:17:37,787 - DEBUG - ----------
+2023-07-29 19:17:37,787 - DEBUG - |mdp mail|
+2023-07-29 19:17:37,788 - DEBUG - ----------
+2023-07-29 19:17:37,791 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:17:38,171 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:17:38,172 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:17:38,177 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:17:38,402 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:17:38,403 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:17:46,206 - DEBUG - VCT mail
+2023-07-29 19:17:48,456 - DEBUG - \/-_-_-|message send|-_-_-\/
+2023-07-29 19:18:38,412 - DEBUG - --------------------------------
+2023-07-29 19:18:38,413 - DEBUG - |         message debug        |
+2023-07-29 19:18:38,413 - DEBUG - --------------------------------
+2023-07-29 19:18:52,426 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:18:52,727 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:18:52,730 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:18:52,737 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:18:53,001 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:18:53,002 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:18:54,008 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:18:54,298 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:18:54,300 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:18:55,306 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:18:55,574 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:18:55,576 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:18:56,581 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:18:56,823 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:18:56,825 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:18:57,830 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:18:58,135 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:18:58,141 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:18:58,145 - DEBUG - --------------
+2023-07-29 19:18:58,146 - DEBUG - |mail entrant|
+2023-07-29 19:18:58,147 - DEBUG - --------------
+2023-07-29 19:18:58,152 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:18:58,503 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:18:58,504 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:18:58,509 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:18:58,779 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:18:58,780 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:19:00,717 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:19:00,955 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:19:00,956 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:19:00,958 - DEBUG - ----------
+2023-07-29 19:19:00,958 - DEBUG - |mdp mail|
+2023-07-29 19:19:00,958 - DEBUG - ----------
+2023-07-29 19:19:00,961 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:19:01,189 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:19:01,192 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:19:01,196 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+2023-07-29 19:19:01,499 - DEBUG - https://discord.com:443 "POST /api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo?wait=0 HTTP/1.1" 204 0
+2023-07-29 19:19:01,501 - DEBUG - Webhook ID 1132444091825782794 with POST https://discord.com/api/v10/webhooks/1132444091825782794/HxaGf28ZLI_c2vJ43p60E420rw2fO0YF0wUpJr853WDPAUJhJ5eAnFEO-Y7nXq1PWVAo has returned status code 204
+2023-07-29 19:19:06,788 - DEBUG - VCT mail
+2023-07-29 19:19:09,067 - DEBUG - \/-_-_-|message send|-_-_-\/
+2023-07-29 19:19:11,381 - DEBUG - \/-_-_-|message send|-_-_-\/
